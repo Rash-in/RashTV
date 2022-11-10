@@ -1,0 +1,3 @@
+//Only used to keep folder structure
+//Servers will use this directory to automatically place log files.
+//.gitignore has *.log files included as to not commit.
