@@ -1,0 +1,3 @@
+//Only used to keep folder structure
+//Use this as a local storage for all SSL certs
+//.gitignore has *.pem, *.crt, *.key files included as to not commit.
