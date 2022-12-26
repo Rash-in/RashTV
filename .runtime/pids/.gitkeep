@@ -1,3 +1,0 @@
-//Only used to keep folder structure
-//Servers will keep pids in this directory automatically
-//.gitignore has *.pid included as to not commit.
